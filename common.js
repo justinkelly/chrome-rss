@@ -11,7 +11,7 @@ var storageEnabled = window.localStorage != null;
 function defaultReaderList() {
   // This is the default list, unless replaced by what was saved previously.
   return [
-    { 'url': 'http://www.feedly.com /home#subscription/feed/%s[action.subscribe',
+    { 'url': 'http://www.feedly.com/home#subscription/feed/%s[action.subscribe',
       'description': 'Feedly'
     },
     { 'url': 'http://www.newsblur.com/?url=%s',
