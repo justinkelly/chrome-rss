@@ -15,7 +15,6 @@
    "icons": {
       "128": "feed-icon-128x128.png"
    },
-   "key": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQD9WxY2FweiM38uzRRx3RRgb7fboUR77ehEKcTwJ/ZdZ21mcasL1xGmNMB73mMDfqHVrm1P1dXM8W8smXdvgd89djAeUSspnglJlV59zJYkzVHQzDgX7wOyzzy4oH5JmyHfXas2DD2/Hnu1QQvCkUQDHdHmIUuByG/RZ1x36EQ07QIDAQAB",
    "manifest_version": 2,
    "name": "__MSG_rss_subscription_name__",
    "options_page": "options.html",
@@ -25,7 +24,6 @@
       "default_title": "__MSG_rss_subscription_default_title__"
    },
    "permissions": [ "tabs", "http://*/*", "https://*/*" ],
-   "update_url": "http://clients2.google.com/service/update2/crx",
    "version": "2.2.0",
    "web_accessible_resources": [ "iframe.js", "style.css" ]
 }
