@@ -20,7 +20,7 @@ function defaultReaderList() {
     { 'url': 'http://theoldreader.com/feeds/subscribe?url=%s',
       'description': 'The Old Reader'
     },
-    { 'url': https://www.rolio.com/subscribe.aspx?feedUrl=%s',
+    { 'url': 'https://www.rolio.com/subscribe.aspx?feedUrl=%s',
       'description': 'Rolio'
     }
   ];
