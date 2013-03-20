@@ -22,6 +22,9 @@ function defaultReaderList() {
     },
     { 'url': 'https://www.rolio.com/subscribe.aspx?feedUrl=%s',
       'description': 'Rolio'
+    },
+    { 'url': 'http://wefav.com/news/subs/url/%s',
+      'description': 'WeFav'
     }
   ];
 }
