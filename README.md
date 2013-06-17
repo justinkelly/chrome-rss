@@ -13,8 +13,8 @@ This extension is published on the chrome webstore at:
 
 * https://chrome.google.com/webstore/detail/rss-subscription-extensio/bmjffnfcokiodbeiamclanljnaheeoke
 
-![](https://googledrive.com/host/0B3qPjbk9su5uT0pQdVhVYXVUbEk/images/chrome-rss-hover.png)
+![](https://googledrive.com/host/0B3qPjbk9su5uT0pQdVhVYXVUbEk/Dev/chrome-rss-hover.png)
 
-![](https://googledrive.com/host/0B3qPjbk9su5uT0pQdVhVYXVUbEk/images/chrome-rss-options.png)
+![](https://googledrive.com/host/0B3qPjbk9su5uT0pQdVhVYXVUbEk/Dev/chrome-rss-options.png)
 
-![](https://googledrive.com/host/0B3qPjbk9su5uT0pQdVhVYXVUbEk/images/chrome-rss-save.png)
+![](https://googledrive.com/host/0B3qPjbk9su5uT0pQdVhVYXVUbEk/Dev/chrome-rss-save.png)
