@@ -63,7 +63,7 @@ function preview(feed_url) {
   var url = "";
   if (window.localStorage && window.localStorage.showPreviewPage == "No") {
     // Skip the preview.
-    url = window.localStorage.defaultReader.replace("%s", escape(feed_url));
+    url = window.localStorage.defaultReader.replace("%s", encodeURIComponent(feed_url));
   } else {
     // Show the preview page.
     url = "subscribe.html?" + encodeURIComponent(feed_url);
